@@ -2,6 +2,8 @@
 
 feature_list_link:https://drive.google.com/drive/folders/1HaVjuY9tNaVWdhswES8mO5QCzx4QRYQo?usp=share_link
 
+To reproduce the submission of my pretraining
+
 1.Download the 109550071_Final_inference.ipynb
 
 2.Download the feature_list
